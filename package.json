@@ -1,0 +1,16 @@
+{
+  "name": "scraperproblemcondoworks",
+  "version": "1.0.0",
+  "description": "Srapper problem coding test from condoWorks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Saarang Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "puppeteer": "^5.3.1"
+  }
+}
